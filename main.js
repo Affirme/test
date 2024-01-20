@@ -1,1 +1,1 @@
-console.log('Как мать?')
+console.log('Как life?')
